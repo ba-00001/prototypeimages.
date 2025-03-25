@@ -1,6 +1,4 @@
-https://github.com/ba-00001/prototypeimages./blob/main/prototype%201.jpg
 
-https://github.com/ba-00001/prototypeimages./blob/main/prototype%202.jpg
 
 # Reddit UI Redesign – Paper Prototypes
 
